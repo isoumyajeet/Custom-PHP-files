@@ -2,10 +2,10 @@
 set_time_limit(0);
 
 
-$url = "http://www.infobot-technologies.com/demo/Aeropidia_ashu.zip";
+$url = "source_url";
 
 
-exec('wget http://www.infobot-technologies.com/demo/Aeropidia_ashu.zip');
+exec('wget target_url');
 
 
 
